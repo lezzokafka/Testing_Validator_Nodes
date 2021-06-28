@@ -33,4 +33,4 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 Check 
 ```bash
 go version
-```
+```# ethermint-docs
